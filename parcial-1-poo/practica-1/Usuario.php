@@ -1,5 +1,5 @@
 <?php
-
+// Práctica 1 - POO en PHP
 class Usuario {
 
     private string $nombre;
