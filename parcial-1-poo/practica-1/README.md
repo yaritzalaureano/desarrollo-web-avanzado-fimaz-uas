@@ -19,4 +19,6 @@ Se creó una clase llamada Usuario con:
 2. Iniciar Apache desde el panel de XAMPP.
 3. Abrir el navegador y escribir:
 
-http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-1/index.php
+http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-1/index.
+
+Práctica 1 finalizada correctamente.
