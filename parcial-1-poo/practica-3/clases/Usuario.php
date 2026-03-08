@@ -6,7 +6,7 @@ class Usuario {
 
     public function __construct($nombre, $correo){
         $this->nombre = $nombre;
-        // Validar correo
+    
         if (!filter_var($correo, FILTER_VALIDATE_EMAIL)) {
             throw new Exception("Correo inválido: $correo");
         }
