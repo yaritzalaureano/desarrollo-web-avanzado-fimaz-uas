@@ -22,7 +22,7 @@ El proyecto debe colocarse dentro de la carpeta htdocs de XAMPP.
 
 Luego abrir en el navegador la siguiente ruta:
 
-http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-4/index.php
+http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica4/index.php
 
 Evidencia esperada
 
